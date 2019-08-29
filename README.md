@@ -1,4 +1,8 @@
-Hướng dẫn sử dụng 
+import package 
+và gọi hàm 
+get_text_box(pdf_path )
+
+v
 
 
 ```python 
