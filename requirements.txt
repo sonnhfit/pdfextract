@@ -1,6 +1,6 @@
 amqp==2.5.1
 numpy==1.17.0
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 openpyxl==2.6.3
 pandas==0.25.0
 pdf2image==1.6.0
